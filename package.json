@@ -1,0 +1,14 @@
+{
+  "name": "chainiki",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "evgen",
+  "license": "ISC"
+}
